@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="removebg.banner.png">
+</p>
+
 # pyNotifiar
 
 In ous pc we got many kind of notification. Now we can make those types of notification as a reminder.
